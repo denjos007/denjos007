@@ -1,4 +1,13 @@
 ### Hi there 👋
+I am Joseph; A robotics enthusiast. 
+I work with robots in the air, in water and on the ground. My specialization is in sensor engineering for robotic perception systems and embedded systems design.
+
+## 🔭 I’m currently working on:
+- Raytheon Drone Competition
+- ReLoki: A distributed infrastructure free localization system based on UWB antenna arrays
+- Real time Distributed multi-robot target tracking via virtual pheromones
+
+
 
 <!--
 **denjos007/denjos007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

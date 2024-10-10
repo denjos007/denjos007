@@ -2,10 +2,8 @@
 I am Joseph; A robotics enthusiast. 
 I work with robots in the air, in water and on the ground. My specialization is in sensor engineering for robotic perception systems and embedded systems design.
 
-## 🔭 I’m currently working on:
-- Multi-drone search with prior information
-- ReLoki: A distributed infrastructure free localization system based on UWB antenna arrays
-- Real time Distributed multi-robot target tracking via virtual pheromones
+## 🔭 I’m currently working at:
+- Databuoy Corporation
 
 
 
